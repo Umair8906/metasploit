@@ -1,11 +1,4 @@
 
-
-FOR ANY HELP AND ANY ISSUE CONTACT TO WHATSAPP GROUP
-
-https://chat.whatsapp.com/CFmQT9KVsRI3e3XkcZeAF7
-
-
-
 # metasploit install in termux
 
 
@@ -43,3 +36,10 @@ cd metasploit
 
 
 bash metasploit.sh
+
+
+
+
+FOR ANY HELP AND ANY ISSUE CONTACT TO WHATSAPP GROUP
+
+https://chat.whatsapp.com/CFmQT9KVsRI3e3XkcZeAF7
